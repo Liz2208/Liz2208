@@ -9,7 +9,13 @@
  ## **:desktop_computer: Languages and Tools:**  
 
 <p align="center">
-<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="100"><img src= "https://media.giphy.com/media/axwMQreFDFc56Pyz8C/giphy.gif" width="90"><img src= "https://media.giphy.com/media/q9Bt41UfVX46hcmNh7/giphy.gif" width="60">
+<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="80"> 
+<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="80"> 
+<img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="80">  
+<img src= "https://media.giphy.com/media/axwMQreFDFc56Pyz8C/giphy.gif" width="80">
+<img src= "https://media.giphy.com/media/q9Bt41UfVX46hcmNh7/giphy.gif" width="60"> 
+<img src= "https://media.giphy.com/media/SNhZ3ir98tItiQ5Ujk/giphy.gif" width="80">
+<img src= "https://media.giphy.com/media/XJbvalRnwBIhFqJFHN/giphy.gif" width="100">
 </p>
 
 <br>
